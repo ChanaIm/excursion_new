@@ -39,21 +39,3 @@ p {
   display: flex;
   top: 50px;
 }
-
-<<<<<<< HEAD
-/* Trying to work out this crazy Git, getting help from Joe
-have rest in terminal, commited and pushed changes
-need to reenter password details. */
-
-
-h1 {
-  font-size: 120px;
-  font-style: italic;
-  color: Aquamarine;
-=======
-/* First commit */
-
-h1 {
-  font-size: 70px;
->>>>>>> Change font size to h1 tag as test
-}
